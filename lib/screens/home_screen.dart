@@ -86,7 +86,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   height: 300,
                   width: 600,
                   decoration: BoxDecoration(
-                    color: Colors.orange[300],
+                    color: Colors.yellow,
                   ),
                 ),
               ),
